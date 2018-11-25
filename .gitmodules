@@ -1,0 +1,3 @@
+[submodule "annsible-cloud"]
+	path = annsible-cloud
+	url = https://github.com/trayii/annsible-cloud.git
